@@ -1,8 +1,11 @@
 # Users1st
-Discussion about TPAC 2020 breakout session "What would it mean for W3C to REALLY prioritize end users?"  
+Discussion about TPAC 2020 breakout session "What would it mean for W3C to REALLY prioritize end users?"
+
 File an issue to propose a specific problem to address, a possible way to address the problems, how to build a community to follow up on the breakout, etc.  Or file a pull request on this README.md file to clarify/correct/amplify the points here.
 
-What would it mean for W3C to REALLY prioritize end users? : There has been much discussion recently (See especially https://www.w3.org/2001/tag/doc/ethical-web-principles, https://www.rfc-editor.org/rfc/rfc8890.html and https://www.mnot.net/blog/2020/08/28/for_the_users, https://www.eff.org/deeplinks/2020/10/we-fight-users)  on this topic. It's not clear what it would mean CONCRETELY for W3C to prioritize the needs of end-users over those of the platform implementers, website developers, "horizontal" specialists, and researchers who make up most of W3C's membership. 
+What would it mean for W3C to REALLY prioritize end users?
+
+There has been much discussion recently (See especially https://www.w3.org/2001/tag/doc/ethical-web-principles, https://www.rfc-editor.org/rfc/rfc8890.html and https://www.mnot.net/blog/2020/08/28/for_the_users, https://www.eff.org/deeplinks/2020/10/we-fight-users)  on this topic. It's not clear what it would mean CONCRETELY for W3C to prioritize the needs of end-users over those of the platform implementers, website developers, "horizontal" specialists, and researchers who make up most of W3C's membership. 
 
 ## What are some concrete problems caused by standards bodies such as W3C not paying sufficient attention to end user needs? 
 
