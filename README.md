@@ -36,4 +36,7 @@ Some mentioned in RFC 8890 include:
 
 Obviously there's WAY too much to discuss in 50 minutes over Zoom, but if we use some forum (maybe this repo) to identify the most fruitful topics to discuss, and how to continue the conversation after TPAC, we might make some progress!  
 
-
+## References
+* 2020 TPAC breakout session description: https://www.w3.org/2020/10/TPAC/breakout-schedule.html#users1st
+* Minutes: https://www.w3.org/2020/10/27-users1st-minutes.html
+* IRC log: https://www.w3.org/2020/10/27-users1st-irc
